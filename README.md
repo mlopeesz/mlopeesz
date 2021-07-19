@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello World, i'm Mauricio Lopes! 👋
 
-<!--
-**mlopeesz/mlopeesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :books: I'm a student at [Trybe](https://www.betrybe.com/)
+- :house_with_garden: I’m from Brazil.
 
-Here are some ideas to get you started:
+### Connect with me:
+<a href="mailto:mlopeesz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mlopeesz/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/mlopeso_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlopeesz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlopeesz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
