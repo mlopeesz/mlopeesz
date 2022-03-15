@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/html5-141321?style=for-the-badge&logo=html5&logoColor=fe428e" />
 <img src="https://img.shields.io/badge/css3-141321?style=for-the-badge&logo=css3&logoColor=fe428e" />
 <img src="https://img.shields.io/badge/javascript-141321?style=for-the-badge&logo=javascript&logoColor=fe428e" />
+<img src="https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=fe428e" />
+<img src="https://img.shields.io/badge/redux-141321?style=for-the-badge&logo=redux&logoColor=fe428e" />
+<img src="https://img.shields.io/badge/docker-141321?style=for-the-badge&logo=docker&logoColor=fe428e" />
 <hr>
 
 - Thanks for visiting 😄
