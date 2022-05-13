@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/react-141321?style=for-the-badge&logo=react&logoColor=fe428e" />
 <img src="https://img.shields.io/badge/redux-141321?style=for-the-badge&logo=redux&logoColor=fe428e" />
 <img src="https://img.shields.io/badge/docker-141321?style=for-the-badge&logo=docker&logoColor=fe428e" />
+<img src="https://img.shields.io/badge/nodejs-141321?style=for-the-badge&logo=node.js&logoColor=fe428e" />
 <hr>
 
 - Thanks for visiting 😄
