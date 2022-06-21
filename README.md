@@ -59,6 +59,11 @@
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-d5d5d5?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
   </a>
+  
+  <!-- TAILWIND -->
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/TailwindCSS-d5d5d5?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+  </a>
 
   <!-- JAVASCRIPT -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
