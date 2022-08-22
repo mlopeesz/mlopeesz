@@ -105,9 +105,9 @@
     <img src="https://img.shields.io/badge/express.js-d5d5d5?&style=for-the-badge&logo=express&logoColor=3f4854"/>
   </a>
   
-  <!-- SQL ORACLE -->
-  <a href="https://www.oracle.com/br/database/">
-    <img src="https://img.shields.io/badge/pl/sql-d5d5d5?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
+  <!-- MYSQL -->
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-d5d5d5?style=for-the-badge&logo=mysql&logoColor=00758f"/>
   </a>
 
   <!-- MONGODB -->
