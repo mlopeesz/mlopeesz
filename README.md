@@ -1,25 +1,39 @@
+# Hello World! I'm Mauricio Lopes 👋
+
+## [🇧🇷 Portuguese]
+
+ Tenho contato com tecnologia desde criança, criei uma paixão pela área e decidi levar pra vida! Comecei a estudar desenvolvimento full-stack em 2021, passei pelos módulos de fundamentos, front-end e back-end. Atualmente aluno da [Trybe](https://www.betrybe.com/) no último módulo de ciência da computação.
+ - Rotina baseado em código, música, games, leitura e estudo 📑
+ - Apaixonado por tecnologia e games 🎮
+ - Movido por todo tipo de música 🎶
+ - Baby steps é a chave para o sucesso! 👶
+ 
+ ### "A felicidade só é real quando compartilhada." - Christopher McCandless
+ 
+ ## [🇺🇸 English]
+ 
+  Have been in contact with technology since I was a child, I created a passion for the area and decided to take it to life! I started studying full-stack development in 2021, went through the fundamentals, front-end and back-end modules. Currently a student at [Trybe](https://www.betrybe.com/) in the last computer science module.
+
+ - Routine based on code, music, games, reading and studying 📑
+ - Passionate about technology and games 🎮
+ - Moved by all kinds of music 🎶
+ - Baby steps is the key to success! 👶
+
+### "Happiness is only real when shared." - Christopher McCandless
+ 
+<hr />
+
 <div align="center">
-<h1>Hello World, i'm Mauricio Lopes! 👋</h1>
-
-:books: I'm a Full Stack Developer student at [Trybe](https://www.betrybe.com/)
-<p>:house_with_garden: I’m from Brazil.</p>
-💻 Crazy about technology.
-
-<h3>Connect with me:</h3>
-<a href="mailto:mlopeesz@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mlopeesz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/mlopeso_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<hr>
-
-<div align="center">
-  <h3>Skills</h3>
+  <h3>Status</h3>
+  <a href="https://github.com/mlopeesz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlopeesz&show_icons=true&theme=default&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopeesz&theme=default&layout=compact">
+</div>
   
+<hr />
+ 
+<div align="center"><br>
+  <h3>Techs</h3>
   <!-- LINUX -->
   <a href="https://www.linux.org/">
      <img src="https://img.shields.io/badge/Linux-d5d5d5?style=for-the-badge&logo=linux&logoColor=000000"/>
@@ -119,18 +133,19 @@
   <a href="https://www.heroku.com/home">
     <img src="https://img.shields.io/badge/Heroku-d5d5d5?style=for-the-badge&logo=HEROKU&logoColor=B893DF"/>
   </a>
-  <hr>
-  
-  <!-- GITHUB STATS -->
-  <a href="https://github.com/mlopeesz">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlopeesz&show_icons=true&theme=default&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopeesz&theme=default&layout=compact">
-<br>
-    
-  
-    
-  </div>
-  
-  <hr>
+</div>
 
-Thanks for visiting 😄
+<hr />
+  
+<div align="center"> 
+  <h3>Contact</h3>
+  <a href="mailto:mlopeesz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mlopeesz/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mlopeso_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
