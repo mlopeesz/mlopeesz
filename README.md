@@ -2,7 +2,7 @@
 
 ## [🇧🇷 Portuguese]
 
- Tenho contato com tecnologia desde criança, criei uma paixão pela área e decidi levar pra vida! Comecei a estudar desenvolvimento full-stack em 2021, passei pelos módulos de fundamentos, front-end e back-end. Atualmente aluno da [Trybe](https://www.betrybe.com/) no último módulo de ciência da computação.
+ Tenho contato com tecnologia desde criança, criei uma paixão pela área e decidi levar pra vida! Comecei a estudar desenvolvimento full-stack em 2021, passei pelos módulos de fundamentos, front-end e back-end.
  - Rotina baseado em código, games, leitura e estudo 📑
  - Apaixonado por tecnologia e games 🎮
  - Movido por todo tipo de música 🎶
@@ -12,7 +12,7 @@
  
  ## [🇺🇸 English]
  
-  Have been in contact with technology since I was a child, I created a passion for the area and decided to take it to life! I started studying full-stack development in 2021, went through the fundamentals, front-end and back-end modules. Currently a student at [Trybe](https://www.betrybe.com/) in the last computer science module.
+  Have been in contact with technology since I was a child, I created a passion for the area and decided to take it to life! I started studying full-stack development in 2021, went through the fundamentals, front-end and back-end modules.
 
  - Routine based on code, games, reading and studying 📑
  - Passionate about technology and games 🎮
