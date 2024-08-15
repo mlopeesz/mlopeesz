@@ -8,8 +8,6 @@
  - Movido por todo tipo de música 🎶
  - Baby steps é a chave para o sucesso! 👶
  
- ### "A felicidade só é real quando compartilhada." - Christopher McCandless
- 
  ## [🇺🇸 English]
  
   Have been in contact with technology since I was a child, I created a passion for the area and decided to take it to life! I started studying full-stack development in 2021, went through the fundamentals, front-end, back-end and computer science modules.
@@ -18,8 +16,6 @@
  - Passionate about technology and games 🎮
  - Moved by all kinds of music 🎶
  - Baby steps is the key to success! 👶
-
-### "Happiness is only real when shared." - Christopher McCandless
  
 <hr />
 
